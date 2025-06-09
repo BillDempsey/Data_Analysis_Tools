@@ -1,6 +1,6 @@
 # Custom Applications for JSON Data Analysis (Windows Only)
 
-This repository contains a number of applications I created during as part of my work in iSentioLabs. They helped me to streamline the data analysis process and allow others to perform data analysis without the requirement to use Python like I had been doing. These tools were originally created for use on our office laptops, so they are compatible only with 64-bit Windows operating systems.
+This repository contains a number of applications I created during as part of my work in iSentioLabs. They helped me to streamline the data cleaning and analysis process and allow others to perform data analysis without the requirement to use Python like I had been doing. These tools were originally created for use on our office laptops, so they are compatible only with 64-bit Windows operating systems.
 
 All applications are bundled together in a single downloadable ZIP file available in this repository.
 
@@ -21,22 +21,22 @@ Inside the zip file (`Custom_Apps_Windows64.zip`), you'll find:
 These tools support the following data processing tasks:
 
 1. **Concatenate JSON Files**  
-   Combines multiple files, ensuring smooth time continuity and allowing for a new JSON ID.
+   Combines multiple files, ensuring smooth time continuity.
 
 2. **Snip JSON by Time Range**  
-   Trim JSON data by specifying start and end times. Saves the new file with a `_snipped` suffix.
+   Trim JSON data by specifying start and end times. 
 
 3. **Feature Extraction - Generic**  
    Extracts average and standard deviation from user-selected time ranges. Outputs annotated Word and Excel reports.
 
 4. **Feature Extraction - Peaks & Troughs**  
-   Allows the user to select multiple trough/peak pairs and computes the adjusted load between them.
+   Allows the user to select multiple trough/peak pairs and computes the load difference between them.
 
 5. **Load Sign Flipping**  
-   Inverts all Load values in selected files and saves them as `_inverted`.
+   Inverts all load values in selected files.
 
 6. **Load Zeroing at a Point**  
-   Lets the user define a new zero point and adjusts all subsequent values accordingly.
+   Lets the user define new zero points and adjusts all subsequent values accordingly.
 
 7. **Remove Load Values Outside Range**  
    Deletes values outside user-defined upper/lower bounds in selected time ranges.
