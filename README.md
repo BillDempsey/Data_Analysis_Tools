@@ -1,4 +1,4 @@
-# Custom Applications for JSON Data Analysis (Windows Only)
+# Custom Applications for JSON Data Analysis
 
 This repository contains a number of applications I created during as part of my work in iSentioLabs. They helped me to streamline the data cleaning and analysis process and allow others to perform data analysis without the requirement to use Python like I had been doing. These tools were originally created for use on our office laptops, so they are compatible only with 64-bit Windows operating systems.
 
