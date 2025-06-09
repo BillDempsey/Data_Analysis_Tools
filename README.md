@@ -2,7 +2,7 @@
 
 This repository contains a number of applications I created during as part of my work in iSentioLabs. They helped me to streamline the data cleaning and analysis process and allow others to perform data analysis without the requirement to use Python like I had been doing. These tools were originally created for use on our office laptops, so they are compatible only with 64-bit Windows operating systems.
 
-**The applications take up a lot of storage space, so I'm currently working on how to upload to this GitHub page in a way which makes them easy to download and test. I tried bundling them into a zip repository as below, but that (and a number of other methods) didn't work. Stay tuned for more!**
+**The applications take up a lot of storage space, so I'm currently working on how to upload to this GitHub page in a way which makes them easy to download and try out. I tried bundling them into a zip repository as below, but that (and a number of other methods) didn't work. Stay tuned for more!**
 
 ---
 Applications are bundled together in a single downloadable ZIP file available in this repository. 
