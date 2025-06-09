@@ -16,7 +16,7 @@ Inside the zip file (`Custom_Apps_Windows64.zip`), you'll find:
 
 ---
 
-## Available Applications
+## Applications
 
 These tools support the following data processing tasks:
 
