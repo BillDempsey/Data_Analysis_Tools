@@ -2,7 +2,7 @@
 
 This repository contains a number of applications I created during as part of my work in iSentioLabs. They helped me to streamline the data cleaning and analysis process and allow others to perform data analysis without the requirement to use Python like I had been doing. These tools were originally created for use on our office laptops, so they are compatible only with 64-bit Windows operating systems.
 
-All applications are bundled together in a single downloadable ZIP file available in this repository.
+All applications are bundled together in a single downloadable ZIP file available in this repository. 
 
 ---
 
@@ -12,7 +12,7 @@ Inside the zip file (`Custom_Apps_Windows64.zip`), you'll find:
 
 - Several standalone `.exe` applications for processing iSentio JSON files
 - A **sample JSON file** included in the root folder for testing and demonstration purposes
-- Usage instructions for each app in the form of either tooltips, prompts, or included documentation
+- A powerpoint presentation with usage instructions for each app
 
 ---
 
@@ -60,13 +60,14 @@ A sample JSON file is included in the ZIP to allow users to trial each applicati
 
 ## File Layout (After Unzipping)
 Custom_Apps_Windows64/
-├── Concatenate_JSON.exe
-├── Snip_JSON.exe
-├── Feature_Extraction_Generic.exe
-├── Feature_Extraction_Peaks_Troughs.exe
-├── Load_Sign_Flipping.exe
-├── Load_Zeroing.exe
-├── Remove_Load_Outside_Range.exe
-├── Draw_Over_Load_Data.exe
-├── sample_file.json
+- Concatenate_JSON.exe
+- Snip_JSON.exe
+- Feature_Extraction_Generic.exe
+- Feature_Extraction_Peaks_Troughs.exe
+- Load_Sign_Flipping.exe
+- Load_Zeroing.exe
+- Remove_Load_Outside_Range.exe
+- Draw_Over_Load_Data.exe
+- sample_file.json
+- custom_applications_guide.ppt
 
